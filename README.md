@@ -12,8 +12,8 @@ There are a couple of IOS 7 App Icon Template for Photoshop available, but none 
 Read more here: http://kodira.de/2013/11/ios-7-app-icon-template-inkscape-svg-editor/
 
 
-PNG 
-===
+PNG Tools
+=========
 
 The png/app-icon-resize.sh script takes a App icon PNG file and resizes it to various sizes you may need for your iOS project.
 
